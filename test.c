@@ -1,9 +1,9 @@
 #include<stdio.h>
 void main()
 {
-
-printf("test111");
 printf("fenzi_2");
+printf("test111");
+
 return 0;
 
 }
