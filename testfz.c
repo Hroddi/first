@@ -4,7 +4,6 @@ void main()
 printf("testfz");
 printf("testfz1");
 printf("test");
-printf("testt1");
-
+printf("testt2");
 return 0;
 }
